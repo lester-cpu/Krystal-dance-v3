@@ -1,4 +1,4 @@
-.HideCharacter = true
+_G.HideCharacter = true
 _G.FlingEnabled = true
 _G.TransparentRig = true
 _G.ToolFling = false -- false = holding, true = fling
